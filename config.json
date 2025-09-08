@@ -1,6 +1,6 @@
 {
   "name": "project-name",
-  "version": "1.0.40",
+  "version": "1.0.41",
   "description": "A simple project",
   "main": "index.js",
   "scripts": {
@@ -9,5 +9,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "update_49": "2026-01-11T17:08:58.221070"
 }
