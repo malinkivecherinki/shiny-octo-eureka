@@ -1,0 +1,3 @@
+"""
+DatabaseMigrator package.
+"""

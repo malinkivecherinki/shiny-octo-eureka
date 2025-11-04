@@ -1,27 +1,32 @@
-# Project
+# DatabaseMigrator
 
-## Update 78
+Database migration and versioning tool
 
-This project includes various utilities and tools.
+## Features
 
-### Features
+- Core functionality implementation
+- Well-documented codebase
+- Easy to use API
+- Extensible architecture
 
-- Feature 78
-- Utility functions
-- Configuration management
-
-### Installation
+## Installation
 
 \`\`\`bash
 npm install
+# or
+pip install -r requirements.txt
 \`\`\`
 
-### Usage
+## Usage
 
 \`\`\`javascript
-const utils = require('./src/utils');
+const DatabaseMigrator = require('./src/index');
 \`\`\`
 
-### Changelog
+## Development
 
-- Update 78: Added new features and improvements
+This project is actively maintained and developed.
+
+## License
+
+MIT
