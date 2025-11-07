@@ -1,7 +1,27 @@
-# shiny-octo-eureka
+# Project
 
-A development project with various utilities and tools.
+## Update 12
 
-## Getting Started
+This project includes various utilities and tools.
 
-This project contains scripts, utilities, and small applications.
+### Features
+
+- Feature 12
+- Utility functions
+- Configuration management
+
+### Installation
+
+\`\`\`bash
+npm install
+\`\`\`
+
+### Usage
+
+\`\`\`javascript
+const utils = require('./src/utils');
+\`\`\`
+
+### Changelog
+
+- Update 12: Added new features and improvements
